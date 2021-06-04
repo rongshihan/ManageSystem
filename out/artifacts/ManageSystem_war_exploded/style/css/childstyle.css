@@ -1,0 +1,51 @@
+/*
+Theme Name: DesignBlog
+Theme URI: http://blog.karachicorner.com
+
+
+Author: Muhammad Faisal
+Author URI: http://blog.karachicorner.com
+Description: 
+Version: 1.0
+*/
+#sitesearchform fieldset {
+	float: left;
+	color: #888;
+	border: 1px solid #DFDFDF;
+	-webkit-box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.04), inset 0 2px 8px 0 rgba(0, 0, 0, 0.075);
+	-moz-box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.04), inset 0 2px 8px 0 rgba(0, 0, 0, 0.075);
+	box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.04), inset 0 2px 8px 0 rgba(0, 0, 0, 0.075);
+	-webkit-transition: all 0.25s linear;
+	-moz-transition: all 0.25s linear;
+	transition: all 0.25s linear;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 3px;
+	width: 250px;
+	margin: 5px 0 0 15px;
+	height: 35px;
+	background-color: #fff;
+}
+.sidesearch_input {
+	border: 0px solid #fff;
+	background-color: transparent;
+	height: 18px;
+	width: 185px;
+	font-size: 14px;
+	float: left;
+	margin: 8px;
+	color: #555;
+	padding: 1px;
+}
+.sidesearch_submit {
+	margin-top:10px;
+	margin-left:20px;
+	float:left;
+	border:0px solid red;
+	background-color:transparent;
+}
+#log {margin: 10% 0 0 35%;
+	font: bold 20px/0.5em Arial, Helvetica, sans-serif;
+/*	display: none*/
+}

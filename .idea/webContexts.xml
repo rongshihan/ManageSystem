@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/ShopPage/ChangeCarInfo.jsp" value="file://$PROJECT_DIR$/web/ShopPage" />
+        <entry key="file://$PROJECT_DIR$/web/ShopPage/carDetail.jsp" value="file://$PROJECT_DIR$/web/ShopPage" />
+        <entry key="file://$PROJECT_DIR$/web/ShopPage/firstpage.jsp" value="file://$PROJECT_DIR$/web/ShopPage" />
+        <entry key="file://$PROJECT_DIR$/web/ShopPage/funcOverview.html" value="file://$PROJECT_DIR$/web/WEB-INF" />
+        <entry key="file://$PROJECT_DIR$/web/ShopPage/funcRegister.jsp" value="file://$PROJECT_DIR$/web/ShopPage" />
+        <entry key="file://$PROJECT_DIR$/web/ShopPage/funcUploadCar.jsp" value="file://$PROJECT_DIR$/web/ShopPage" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/CustPage/appointmentView.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/CustPage" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/CustPage/testsingle.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/CustPage" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/CustPage/viewhistory.html" value="file://$PROJECT_DIR$/web/WEB-INF/CustPage" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/dealersPage/appointmentDetail.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/dealersPage" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/dealersPage/handlebook.jsp" value="file://$PROJECT_DIR$/web/WEB-INF" />
+      </map>
+    </option>
+  </component>
+</project>

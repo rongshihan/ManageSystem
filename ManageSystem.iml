@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/classes/basic/ShopRegcus.class" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/classes/basic" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web12">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web13">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web14">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/out/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/out/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web15">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web16">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web17">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded/artifacts/ManageSystem_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+</module>
